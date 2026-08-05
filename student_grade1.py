@@ -1,4 +1,4 @@
-def get_marks():
+def  get_marks():
     english = int(input("enter the english mark :"))
     maths = int(input("enter the maths mark : "))
     science = int(input("enter the science mark : "))

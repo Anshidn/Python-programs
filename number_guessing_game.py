@@ -1,5 +1,5 @@
 def generate_number():
-    return 44
+    return 88
 
 def get_guess():
     guessed_no =int(input(" guess a number : "))

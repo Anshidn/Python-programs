@@ -9,4 +9,3 @@ def greet_decorator(func):
 def say_hello():
     print("Hello...")
 
-say_hello()
