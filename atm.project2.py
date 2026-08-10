@@ -6,7 +6,6 @@ def show_menu():
     print("4 : exit")
 show_menu()  
 
-
 def check_balance(balance):
     print("Current balance :", balance)
 
