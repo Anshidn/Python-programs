@@ -6,7 +6,6 @@ class demo:
     def show(self):
         print(self.public_var)
         print(self._protected_var)
-        print(self.__private_var)
     def get_private(self):
         return self.__private_var
 obj=demo()
